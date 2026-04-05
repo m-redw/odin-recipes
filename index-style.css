@@ -3,6 +3,9 @@
     margin: 0;
 }
 
+/* html selector vs (*) */
+/* html selector ONLY applies to html tag */
+/* (*) applies to EVERY element */
 html {
     background-color: rgb(228, 214, 135);
 }
